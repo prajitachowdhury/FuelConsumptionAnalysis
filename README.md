@@ -19,10 +19,7 @@ also in the UK (imperial gallon).
 
 **Data Source and code details**
 
-The dataset used for this project is sourced from Kaggle: https://www.kaggle.com/datasets/rinichristy/2022-fuel-consumption-ratings
-
-Type: Jupyter Notebook
-
-Language: Python
-
-Libraries Used: Numpy, Pandas, Matplotlib, Scikit Learn
+ - The dataset used for this project is sourced from Kaggle: https://www.kaggle.com/datasets/rinichristy/2022-fuel-consumption-ratings
+ - Type: Jupyter Notebook
+ - Language: Python
+ - Libraries Used: Numpy, Pandas, Matplotlib, Scikit Learn
